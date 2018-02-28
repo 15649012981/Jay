@@ -79,7 +79,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/static/img/sky.jpg');
+    background: url(../images/sky.jpg);
     background-position: -20% 10%;
     background-size: contain;
     #particles-js {
