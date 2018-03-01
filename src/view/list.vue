@@ -27,49 +27,49 @@
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay1.jpg',
+              imgUrl: require('../images/Jay1.jpg'),
               proId: '01'
             },
             {
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay2.jpg',
+              imgUrl: require('../images/Jay2.jpg'),
               proId: '02'
             },
             {
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay3.jpg',
+              imgUrl: require('../images/Jay3.jpg'),
               proId: '03'
             },
             {
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay4.jpg',
+              imgUrl: require('../images/Jay4.jpg'),
               proId: '04'
             },
             {
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay5.jpg',
+              imgUrl: require('../images/Jay5.jpg'),
               proId: '05'
             },
             {
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay6.jpg',
+              imgUrl: require('../images/Jay6.jpg'),
               proId: '06'
             },
             {
               title: '依然范特西',
               dataTime: '2003年06月25日发布',
               worksInstr: '列表：《开不了口》、《七里香》、《你听得到》、《你好吗》、《你比从前快乐》',
-              imgUrl: '../images/Jay3.jpg',
+              imgUrl: require('../images/Jay5.jpg'),
               proId: '07'
             }
           ]
